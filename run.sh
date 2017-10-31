@@ -1,0 +1,1 @@
+python create_pikachu_tf_record.py --output_path=/Users/developer/tmp/pikachu/pikachu.record --label_map_path=/Users/developer/TEST_PROJECT/pikachu_dataset/pikachu.pbtxt --data_dir=/Users/developer/TEST_PROJECT/pikachu_dataset
